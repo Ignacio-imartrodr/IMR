@@ -1,3 +1,5 @@
 "Contido 2-X" 
+<<<<<<< HEAD
 "Contido engadido" 
 "OUTRO Contido engadido" 
+>>>>>>> 0452f82aa9cafa4d7e8fcc2ec152df1dfff52321
